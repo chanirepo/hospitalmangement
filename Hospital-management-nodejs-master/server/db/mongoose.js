@@ -2,7 +2,7 @@
 const { MongoClient } = require("mongodb");
 
 // Connection URL and database name
-const url = "mongodb://139.5.248.188:27017";
+const url = "mongodb://183.82.106.28:27017";
 const dbName = "myDatabase";
 
 // Function to connect to the MongoDB server
